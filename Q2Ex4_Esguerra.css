@@ -1,0 +1,27 @@
+img{
+	height:300px ;
+	padding: 15px;
+	border-radius: 50px;
+	border-style: solid;
+	border-color: #D5BEDE;
+	border-width: 3px;
+	opacity: .75;
+}
+img:hover{
+     opacity: 1;
+}
+body{
+	background-color: #AB8FB5;
+	color: white;
+	text-align: center;
+	font-family: Arial;
+	margin: 100px;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	text-transform: uppercase;
+	letter-spacing: 12px;
+}
